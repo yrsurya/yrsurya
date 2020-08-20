@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I 'm Surya
+
+**Get in touch:**
+[![Linkedin Badge](https://img.shields.io/badge/-SuryaTej-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suryatej-yaramada-434ba9125)](https://www.linkedin.com/in/suryatej-yaramada-434ba9125) [![Github Badge](https://img.shields.io/badge/-yrsurya-lightgrey?style=flat&logo=github&logoColor=white&link=https://github.com/yrsurya/)](https://www.github.com/yrsurya/) ![Profile views](https://gpvc.arturio.dev/yrsurya)
+
+<!-- ![universe-frame](https://i.giphy.com/media/J39gurpvL7SHpnTTJB/giphy.webp "Universe Big Bang") -->
 
 <!--
 **yrsurya/yrsurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
