@@ -1,7 +1,7 @@
 ### Hi there 👋 I 'm Surya
 
 **Get in touch:**
-[![Linkedin Badge](https://img.shields.io/badge/-SuryaTej-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suryatej-yaramada-434ba9125)](https://www.linkedin.com/in/suryatej-yaramada-434ba9125) [![Github Badge](https://img.shields.io/badge/-yrsurya-lightgrey?style=flat&logo=github&logoColor=white&link=https://github.com/yrsurya/)](https://www.github.com/yrsurya/) ![Profile views](https://gpvc.arturio.dev/yrsurya)
+[![Linkedin Badge](https://img.shields.io/badge/-SuryaTej-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yrsurya)](https://www.linkedin.com/in/yrsurya) [![Github Badge](https://img.shields.io/badge/-yrsurya-lightgrey?style=flat&logo=github&logoColor=white&link=https://github.com/yrsurya/)](https://www.github.com/yrsurya/) ![Profile views](https://gpvc.arturio.dev/yrsurya)
 
 <!-- ![universe-frame](https://i.giphy.com/media/J39gurpvL7SHpnTTJB/giphy.webp "Universe Big Bang") -->
 
